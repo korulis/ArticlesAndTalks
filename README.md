@@ -1,6 +1,8 @@
 1. Uncle Bob - Transformation Priority Premise
 https://www.youtube.com/watch?v=B93QezwTQpI
 
+2. https://thegreenbar.wordpress.com/2016/01/03/legacy-lexicon-naming-different-types-of-tests/
+
 
 
 TODO:
