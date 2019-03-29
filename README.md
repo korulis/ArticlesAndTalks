@@ -7,6 +7,10 @@ https://www.youtube.com/watch?v=B93QezwTQpI
 
 TODO:
 
+https://www.youtube.com/watch?v=HIdRm-0OLDU&t=0s
+
+https://www.youtube.com/watch?v=oT-5eIsRixA
+
 https://blog.thecodewhisperer.com/permalink/surely-the-mars-rover-needed-integrated-tests-maybe-not
 
 https://www.infoq.com/presentations/mock-fsharp-tdd?utm_source=presentations_about_build-stuff-2014&utm_medium=link&utm_campaign=build-stuff-2014
