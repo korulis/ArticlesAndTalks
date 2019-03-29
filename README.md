@@ -19,6 +19,9 @@ https://www.infoq.com/presentations/tdd-original?utm_source=presentations_about_
 books:
 
 Pragmatic Programmer
+
 Design patterns or Design Patterns Head First
+
 Domain Driven Design
+
 Working with Legacy Code
