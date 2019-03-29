@@ -15,3 +15,10 @@ https://www.infoq.com/presentations/pub-sub-domains
 
 https://www.infoq.com/presentations/tdd-original?utm_source=presentations_about_Build-Stuff-2013&utm_medium=link&utm_campaign=Build-Stuff-2013
 
+
+books:
+
+Pragmatic Programmer
+Design patterns or Design Patterns Head First
+Domain Driven Design
+Working with Legacy Code
